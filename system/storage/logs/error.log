@@ -1,0 +1,20 @@
+2019-09-09 3:50:25 - PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /var/www/html/opencart/upload/system/library/db/mysqli.php on line 7
+2019-09-09 3:50:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/html/opencart/upload/system/library/db/mysqli.php on line 10
+2019-09-09 3:50:25 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/html/opencart/upload/system/library/db/mysqli.php on line 10
+2019-09-09 3:50:25 - PHP Notice:  Undefined variable: mysql in /var/www/html/opencart/upload/install/controller/install/step_3.php on line 280
+2019-09-09 3:50:25 - PHP Notice:  Trying to get property 'connect_error' of non-object in /var/www/html/opencart/upload/install/controller/install/step_3.php on line 280
+2019-09-09 3:50:33 - PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /var/www/html/opencart/upload/system/library/db/mysqli.php on line 7
+2019-09-09 3:50:33 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/html/opencart/upload/system/library/db/mysqli.php on line 10
+2019-09-09 3:50:33 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/html/opencart/upload/system/library/db/mysqli.php on line 10
+2019-09-09 3:50:33 - PHP Notice:  Undefined variable: mysql in /var/www/html/opencart/upload/install/controller/install/step_3.php on line 280
+2019-09-09 3:50:33 - PHP Notice:  Trying to get property 'connect_error' of non-object in /var/www/html/opencart/upload/install/controller/install/step_3.php on line 280
+2019-09-09 3:50:54 - PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /var/www/html/opencart/upload/system/library/db/mysqli.php on line 7
+2019-09-09 3:50:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/html/opencart/upload/system/library/db/mysqli.php on line 10
+2019-09-09 3:50:54 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/html/opencart/upload/system/library/db/mysqli.php on line 10
+2019-09-09 3:50:54 - PHP Notice:  Undefined variable: mysql in /var/www/html/opencart/upload/install/controller/install/step_3.php on line 280
+2019-09-09 3:50:54 - PHP Notice:  Trying to get property 'connect_error' of non-object in /var/www/html/opencart/upload/install/controller/install/step_3.php on line 280
+2019-09-09 3:51:30 - PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /var/www/html/opencart/upload/system/library/db/mysqli.php on line 7
+2019-09-09 3:51:30 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/html/opencart/upload/system/library/db/mysqli.php on line 10
+2019-09-09 3:51:30 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /var/www/html/opencart/upload/system/library/db/mysqli.php on line 10
+2019-09-09 3:51:30 - PHP Notice:  Undefined variable: mysql in /var/www/html/opencart/upload/install/controller/install/step_3.php on line 280
+2019-09-09 3:51:30 - PHP Notice:  Trying to get property 'connect_error' of non-object in /var/www/html/opencart/upload/install/controller/install/step_3.php on line 280
